@@ -1,0 +1,10 @@
+{
+  "name": "multi-sig-dao-governance",
+  "version": "1.0.0",
+  "description": "Multi-Sig Treasury for DAOs",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.0"
+  }
+}
