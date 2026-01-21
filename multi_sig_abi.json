@@ -1,0 +1,6 @@
+[
+  "function submit(address _to, uint _value, bytes _data) public",
+  "function confirm(uint _txId) public",
+  "function execute(uint _txId) public",
+  "function getTransactionCount() public view returns (uint)"
+]
