@@ -1,0 +1,8 @@
+{
+  "owners": [
+    "0xYourWalletAddress1",
+    "0xYourWalletAddress2",
+    "0xYourWalletAddress3"
+  ],
+  "threshold": 2
+}
